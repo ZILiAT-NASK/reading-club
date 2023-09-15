@@ -5,7 +5,7 @@ We meet every Friday, at 11 AM (room 3.12, Kolska office).
 
 # Year 2023
 
-Propositions of papers: []()
+Propositions of papers: [link](https://github.com/ZILiAT-NASK/reading-club/blob/main/papers_propositions.md)
 
 ## Schedule
 
