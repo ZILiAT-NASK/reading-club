@@ -1,2 +1,26 @@
-# reading-club
-A repository for our Reading Club, where we discuss and analyze academic papers on various topics.
+# Materials from the weekly reading club at NASK (National Research Institute)
+
+We meet every Friday, at 11 AM (room 3.12, Kolska office).
+
+
+# Year 2023
+
+Propositions of papers: []()
+
+## Schedule
+
+- 2023-09-22 - TBD
+- 2023-09-29 - [Explaining grokking through circuit efficiency](https://arxiv.org/abs/2309.02390) - Zuzanna Kwiatkowska
+- 2023-10-06 - [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944) - Emilia Wiśnios
+- 2023-10-13 - TBD
+- 2023-10-20 - TBD
+- 2023-10-27 - ML in PL
+- 2023-11-03 - Holiday
+- 2023-11-10 - TBD
+- 2023-11-17 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) - Emilia Wiśnios
+- 2023-11-24 - TBD
+- 2023-12-01 - TBD
+- 2023-12-08 - TBD
+- 2023-12-15 - TBD
+- 2023-12-22 - Holiday
+- 2023-12-29 - Holiday
