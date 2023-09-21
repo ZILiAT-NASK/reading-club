@@ -18,7 +18,7 @@ Propositions of papers: [link](https://github.com/ZILiAT-NASK/reading-club/blob/
 - 2023-11-03 - Holiday
 - 2023-11-10 - TBD
 - 2023-11-17 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) - Emilia Wiśnios
-- 2023-11-24 - TBD
+- 2023-11-24 - TBD - Karolina Seweryn
 - 2023-12-01 - TBD
 - 2023-12-08 - TBD
 - 2023-12-15 - TBD
