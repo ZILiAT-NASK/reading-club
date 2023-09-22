@@ -16,7 +16,7 @@ Propositions of papers: [link](https://github.com/ZILiAT-NASK/reading-club/blob/
 - 2023-10-20 - TBD
 - 2023-10-27 - ML in PL
 - 2023-11-03 - Holiday
-- 2023-11-10 - TBD
+- 2023-11-10 - [What Kinds of Functions Do Deep Neural Networks Learn?  Insights fromVariational Spline Theory][https://epubs.siam.org/doi/epdf/10.1137/21M1418642] - Piotr Tempczyk
 - 2023-11-17 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) - Emilia Wiśnios
 - 2023-11-24 - TBD - Karolina Seweryn
 - 2023-12-01 - TBD
