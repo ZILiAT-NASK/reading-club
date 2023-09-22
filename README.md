@@ -9,7 +9,7 @@ Propositions of papers: [link](https://github.com/ZILiAT-NASK/reading-club/blob/
 
 ## Schedule
 
-- 2023-09-22 - TBD
+- 2023-09-22 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 - 2023-09-29 - [Explaining grokking through circuit efficiency](https://arxiv.org/abs/2309.02390) - Zuzanna Kwiatkowska
 - 2023-10-06 - [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944) - Emilia Wiśnios
 - 2023-10-13 - TBD
