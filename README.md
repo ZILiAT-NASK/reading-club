@@ -11,12 +11,9 @@ Propositions of papers: [link](https://github.com/ZILiAT-NASK/reading-club/blob/
 
 - 2023-09-22 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 - 2023-09-29 - [Explaining grokking through circuit efficiency](https://arxiv.org/abs/2309.02390) - Zuzanna Kwiatkowska
-- 2023-10-06 - [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944) - Emilia Wiśnios
-- 2023-10-13 - TBD
-- 2023-10-20 - TBD
 - 2023-10-27 - ML in PL
 - 2023-11-03 - Holiday
-- 2023-11-10 - TBD
+- 2023-11-10 - Holiday
 - 2023-11-17 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) - Emilia Wiśnios
 - 2023-11-24 - TBD - Karolina Seweryn
 - 2023-12-01 - TBD
