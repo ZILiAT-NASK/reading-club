@@ -1,6 +1,6 @@
 # Materials from the weekly reading club at NASK (National Research Institute)
 
-We meet every Friday, at 11 AM (room 3.12, Kolska office).
+We meet every Friday, at 11 AM (chill room, Focus office).
 
 
 # Year 2023
